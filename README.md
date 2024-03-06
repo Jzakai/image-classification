@@ -6,4 +6,4 @@ This program is an image classifier for an EMNIST dataset.
 - dataloaders
 
 # Limitations
-The dataset is large making training for many epoches on the entire training set leads to high time complexity. That is why the classifier was trained on small number of epoches, which accounts for the low accuracy level.
+The dataset is large making training for many epoches on the entire training timely with high time complexity. That is why the classifier was trained on small number of epoches, which accounts for the low accuracy level.
