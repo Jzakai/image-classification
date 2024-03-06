@@ -1,4 +1,4 @@
-# image-classification
+# Program Overview
 This program is an image classifier for an EMNIST dataset.
 
 # Implemented techniques
